@@ -18,7 +18,7 @@ public class YMCA
 
     private static void createAndShowGUI()
     {
-        JFrame frame = new JOGLFrame("Scene graph Viewer");
+        JFrame frame = new JOGLFrame("YMCA");
         frame.setVisible(true);
     }
 }
